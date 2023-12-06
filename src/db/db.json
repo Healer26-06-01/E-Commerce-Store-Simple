@@ -1,0 +1,126 @@
+{
+  "categories": [
+    { "id": 1, "title": "Tủ lạnh" },
+    { "id": 2, "title": "Máy giặt" },
+    { "id": 3, "title": "Tivi" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "catId": 1,
+      "title": "Tủ Lạnh Ngăn Đông Trên với Digital Inverter™, 216L",
+      "productCode": "BFFD3577",
+      "image": "10213776.png",
+      "price": 6590000,
+      "sku": "577318",
+      "description": "Công nghệ thông minh và khả năng hoạt động bền bỉ của tủ lạnh Samsung mới mang lại hiệu suất hoạt động dài lâu.\nCông nghệ Digital Inverter tự động điều chỉnh tốc độ máy nén tùy theo nhu cầu làm lạnh với 7 cấp độ tuỳ chỉnh. Nhờ đó, giúp tiết kiệm năng lượng, giảm độ ồn, giảm hao mòn và tăng tuổi thọ máy. Đồng thời, chế độ bảo hành 20 năm giúp bạn luôn an tâm sử dụng tủ lạnh để mang đến những bữa ăn ngon cho cả nhà.\nNgăn giữ ẩm tối ưu kiểm soát sự lưu thông không khí để duy trì độ ẩm tốt nhất, bảo quản hiệu quả các loại thực phẩm dễ hỏng, giữ thức ăn tươi ngon lâu hơn. Khi độ ẩm xuống quá thấp, ngăn giữ ẩm sẽ được khóa lại, hạn chế hơi ẩm thoát ra ngoài. Khi độ ẩm lên quá cao, ngăn giữ ẩm sẽ thoát bớt khí để duy trì độ ẩm.\nViệc lấy thực phẩm trong tủ lạnh đôi khi gặp trở ngại, nhưng với Khay Linh Hoạt được đặt trên thanh trượt và kéo ra dễ dàng, bạn có thể lưu trữ, sắp xếp gọn gàng và lấy thức ăn nhanh chóng; đồng thời tiếp cận được những thực phẩm ở sâu bên trong.\nThoải mái thưởng thức nhiều loại nước giải khát với cánh tủ được thiết kế sâu rộng hơn. Không những chứa đủ những bình sữa và nước trái cây lớn ở ngay ngăn cửa, Ngăn Chứa Lớn còn có khay đựng có thể đựng các loại đồ uống đóng chai dáng cao loại 2 lít.\nKhi mất điện, tấm giữ nhiệt Mr Coolpack giúp duy trì thực phẩm đông lạnh dưới 0°C lên đến 1 giờ và giúp giữ nhiệt độ mát lạnh tối ưu lên đến 12 giờ đảm bảo thực phẩm không bị hư hỏng.\nBộ lọc khử mùi tự nhiên được tích hợp giữ không khí trong tủ lạnh luôn tươi mát và thực phẩm trọn vị tươi ngon. Đặc biệt mùi khó chịu sẽ bị loại bỏ hoàn toàn khi đi qua bộ lọc than hoạt tính.",
+      "specs": {"dimensions": "555 * 1445 * 637 mm (WxHxD)(mm)", "capacity": "216 litres"},
+      "features": ["Công nghệ Digital Inverter bền bỉ, tiết kiệm điện", "Bộ lọc khử mùi than hoạt tính", "Tấm giữ nhiệt Mr Cool Pack"],
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "catId": 1,
+      "title": "Tủ Lạnh Bespoke Ngăn Đông Trên với Đông Mềm Linh Hoạt 4 Chế Độ Optimal Fresh+ màu Trắng Thạch Anh/ Hồng Pha Lê, 348L",
+      "productCode": "CUL55S20",
+      "image": "10205942.png",
+      "price": 13190000,
+      "sku": "287494",
+      "description": "Với 4 chế độ làm lạnh linh hoạt giúp bạn dễ dàng chuyển đổi theo từng nhu cầu bảo quản: Chế độ Làm mát (phù hợp thực phẩm dùng hằng ngày như sữa, thịt nguội…); Chế độ Thịt & Cá; Chế độ Đông mềm (phù hợp lưu trữ thực phẩm dài ngày hơn chế độ Thịt & Cá), Chế độ Làm lạnh nhanh cho đồ uống.\nNgăn đông mềm linh hoạt Optimal Fresh+ ở chế độ “Đông mềm” giữ thịt, cá tươi lâu hơn gấp 2 lần*, bảo toàn trọn dưỡng chất đến 14 ngày mà không đông đá, không cần rã đông, nhờ đó người dùng dễ dàng cắt thái và chế biến nhanh chóng. Với thiết kế dạng kín và kháng khuẩn 99%, ngăn đông mềm hạn chế tình trạng lẫn mùi và bảo vệ sức khỏe gia đình bạn.\nMở rộng không gian lưu trữ tối đa với công nghệ SpaceMax™ tối ưu vật liệu cách nhiệt sử dụng bên trong, mang đến lớp vỏ mỏng hơn thông thường mà vẫn đảm bảo hiệu suất hoạt động tối ưu. Dung tích tăng thêm 20L cho bạn thoải mái lưu trữ mọi loại thực phẩm yêu thích.\nHệ thống lọc diệt khuẩn Active Fresh Filter* giúp loại bỏ 99.99% vi khuẩn** nhờ đó đảm bảo vệ sinh trong tủ lạnh và giảm nguy cơ nhiễm khuẩn của thực phẩm.\nVới chế độ Power Cool, một luồng khí mát lạnh sẽ được thổi ra nhanh chóng, giúp cho thực phẩm hay đồ uống của bạn mát lạnh tức thì.\nHệ thống làm lạnh vòm All-around Cooling kiểm soát chặt chẽ sự thay đổi nhiệt độ và luân chuyển hơi lạnh đều đặn thông qua hệ thống lỗ khí bố trí thông minh, duy trì ổn định nhiệt độ và độ ẩm. Không khí lạnh lan tỏa đều khắp tủ, giúp thực phẩm tươi ngon trong thời gian lâu hơn.\nChỉ cần xoay nhẹ khay đá, dễ dàng có ngay những viên đá tinh khiết. Khay đá xoay di động có thể được tháo rời để mở rộng không gian cho ngăn đông.\nGiám sát và quản lý hoạt động của tủ lạnh mọi lúc, mọi nơi. Giờ đây chỉ cần kết nối tủ lạnh với Wi-Fi, bạn có thể sử dụng ứng dụng SmartThings* để dễ dàng theo dõi hay tùy chỉnh các hoạt động của tủ lạnh, điều khiển chế độ Rapid Cooling, thay đổi nhiệt độ, nhận thông báo khi quên đóng tủ và thậm chí là phát hiện cũng như chẩn đoán vấn đề phát sinh.\nChế độ AI Energy* sẽ phân tích thói quen sử dụng tủ lạnh của bạn, từ đó ước tính mức tiêu thụ điện dựa trên công nghệ AI. Nếu hóa đơn tiền điện dự kiến vượt quá mục tiêu đặt trước của bạn, tủ lạnh sẽ nhắc bạn kích hoạt chế độ tiết kiệm điện giúp giảm đến 7%**.\nThoải mái sử dụng đá lạnh bất kỳ lúc nào nhờ hệ thống làm đá tự động trực tiếp lưu trữ ngay trong tủ. Thiết kế nhỏ gọn giúp mở rộng không gian bảo quản thực phẩm ở ngăn đông nhưng vẫn đảm bảo đủ lượng đá sạch để bạn sử dụng hằng ngày.\nMáy nén biến tần kỹ thuật số Digital Inverter tự động điều chỉnh tốc độ vận hành tùy theo nhu cầu làm lạnh. Nhờ đó, tủ lạnh tiết kiệm điện năng tốt hơn, giảm thiểu tiếng ồn và hạn chế hao mòn động cơ để kéo dài tuổi thọ máy, đồng thời được bảo hành đến 20 năm*\n",
+      "specs": {"dimensions": "600 * 1715 * 709 mm (WxHxD)(mm)", "capacity": "348 litres"},
+      "features": ["Ngăn đông mềm linh hoạt 4 chế độ Optimal Fresh+", "Tăng 20L dung tích với công nghệ SpaceMax™", "Diệt khuẩn 99,99% với hệ thống lọc Active Fresh Filter"],
+      "stock": 10
+    },
+    {
+        "id": 3,
+        "catId": 1,
+        "title": "Tủ Lạnh Bespoke Ngăn Đông Trên với Đông Mềm Linh Hoạt 4 Chế Độ Optimal Fresh+ màu Trắng Thạch Anh/Xanh Navy, 460L",
+        "productCode": "KTLD60X20",
+        "image": "10205751.png",
+        "price": 20689900,
+        "sku": "287103",
+       "description": "Với 4 chế độ làm lạnh linh hoạt giúp bạn dễ dàng chuyển đổi theo từng nhu cầu bảo quản: Chế độ Làm mát (phù hợp thực phẩm dùng hằng ngày như sữa, thịt nguội…); Chế độ Thịt & Cá; Chế độ Đông mềm (phù hợp lưu trữ thực phẩm dài ngày hơn chế độ Thịt & Cá), Chế độ Làm lạnh nhanh cho đồ uống.\nNgăn đông mềm linh hoạt Optimal Fresh+ ở chế độ “Đông mềm” giữ thịt, cá tươi lâu hơn gấp 2 lần*, bảo toàn trọn dưỡng chất đến 14 ngày mà không đông đá, không cần rã đông, nhờ đó người dùng dễ dàng cắt thái và chế biến nhanh chóng. Với thiết kế dạng kín và kháng khuẩn 99%, ngăn đông mềm hạn chế tình trạng lẫn mùi và bảo vệ sức khỏe gia đình bạn.\nMở rộng không gian lưu trữ tối đa với công nghệ SpaceMax™ tối ưu vật liệu cách nhiệt sử dụng bên trong, mang đến lớp vỏ mỏng hơn thông thường mà vẫn đảm bảo hiệu suất hoạt động tối ưu. Dung tích tăng thêm 20L cho bạn thoải mái lưu trữ mọi loại thực phẩm yêu thích.\nHệ thống lọc diệt khuẩn Active Fresh Filter* giúp loại bỏ 99.99% vi khuẩn** nhờ đó đảm bảo vệ sinh trong tủ lạnh và giảm nguy cơ nhiễm khuẩn của thực phẩm.\nVới chế độ Power Cool, một luồng khí mát lạnh sẽ được thổi ra nhanh chóng, giúp cho thực phẩm hay đồ uống của bạn mát lạnh tức thì.\nHệ thống làm lạnh vòm All-around Cooling kiểm soát chặt chẽ sự thay đổi nhiệt độ và luân chuyển hơi lạnh đều đặn thông qua hệ thống lỗ khí bố trí thông minh, duy trì ổn định nhiệt độ và độ ẩm. Không khí lạnh lan tỏa đều khắp tủ, giúp thực phẩm tươi ngon trong thời gian lâu hơn.\nChỉ cần xoay nhẹ khay đá, dễ dàng có ngay những viên đá tinh khiết. Khay đá xoay di động có thể được tháo rời để mở rộng không gian cho ngăn đông.\nGiám sát và quản lý hoạt động của tủ lạnh mọi lúc, mọi nơi. Giờ đây chỉ cần kết nối tủ lạnh với Wi-Fi, bạn có thể sử dụng ứng dụng SmartThings* để dễ dàng theo dõi hay tùy chỉnh các hoạt động của tủ lạnh, điều khiển chế độ Rapid Cooling, thay đổi nhiệt độ, nhận thông báo khi quên đóng tủ và thậm chí là phát hiện cũng như chẩn đoán vấn đề phát sinh.\nChế độ AI Energy* sẽ phân tích thói quen sử dụng tủ lạnh của bạn, từ đó ước tính mức tiêu thụ điện dựa trên công nghệ AI. Nếu hóa đơn tiền điện dự kiến vượt quá mục tiêu đặt trước của bạn, tủ lạnh sẽ nhắc bạn kích hoạt chế độ tiết kiệm điện giúp giảm đến 7%**.\nThoải mái sử dụng đá lạnh bất kỳ lúc nào nhờ hệ thống làm đá tự động trực tiếp lưu trữ ngay trong tủ. Thiết kế nhỏ gọn giúp mở rộng không gian bảo quản thực phẩm ở ngăn đông nhưng vẫn đảm bảo đủ lượng đá sạch để bạn sử dụng hằng ngày.\nMáy nén biến tần kỹ thuật số Digital Inverter tự động điều chỉnh tốc độ vận hành tùy theo nhu cầu làm lạnh. Nhờ đó, tủ lạnh tiết kiệm điện năng tốt hơn, giảm thiểu tiếng ồn và hạn chế hao mòn động cơ để kéo dài tuổi thọ máy, đồng thời được bảo hành đến 20 năm*\n",
+       "specs": {"dimensions": "700 * 1825 * 717 mm (WxHxD)(mm)", "capacity": "460 litres"},
+        "features": ["Ngăn đông mềm linh hoạt 4 chế độ Optimal Fresh+", "Tăng 20L dung tích với công nghệ SpaceMax™", "Diệt khuẩn 99,99% với hệ thống lọc Active Fresh Filter"],
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "catId": 2,
+        "title": "Máy sấy thông minh Samsung AI Heatpump với Bộ 3 cảm biến Optimal Dry, 9kg",
+        "productCode": "BLSD3577",
+        "image": "102128271.png",
+        "price": 26500000,
+        "sku": "784324",
+        "description":"",
+        "specs": {"dimensions": "9.0 kg", "capacity": "9.0 kg"},
+        "features": ["Sấy bơm nhiệt tiết kiệm 50% điện năng", "Bộ 3 cảm biến Optimal Dry sấy khô đều, bền sợi vải", "AI Control tự động đề xuất chế độ sấy"],
+        "stock": 5
+    },
+    {
+        "id": 5,
+        "catId": 2,
+        "title": "Máy giặt sấy thông minh AI Ecobubble™ với Bảng điều khiển thông minh, 9.5/ 6kg",
+        "productCode": "ZRME38FW2",
+        "image": "102134309.png",
+        "price": 17500000,
+        "sku": "670811",
+        "description":"",
+        "specs": {"dimensions": "9.5 kg", "capacity": "6.0 kg"},
+        "features": ["AI Control ghi nhớ, đề xuất chế độ giặt", "Ecobubble™ giặt sạch sâu, bảo vệ sợi vải", "QuickDrive™ sạch siêu tốc chỉ 39 phút"],
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "catId": 2,
+        "title": "Máy giặt cửa trước Ecobubble™ với Giặt hơi nước diệt khuẩn, 9.5kg",
+        "productCode": "ZRME38FW2",
+        "image": "102113409.png",
+        "price": 10890000,
+        "sku": "670811",
+        "description":"",
+        "specs": {"dimensions": "9.5 kg", "capacity": "9.5 kg"},
+        "features": ["Ecobubble™ giặt sạch sâu, bảo vệ sợi vải", "Hygiene Steam diệt khuẩn 99,9%, ngừa dị ứng", "Động cơ Digital Inverter êm ái, bền bỉ 23 năm"],
+        "stock": 5
+    },
+    {
+        "id": 7,
+        "catId": 3,
+        "title": "98 inch Neo QLED 8K QN990C",
+        "productCode": "UE50TU7020KXXU",
+        "image": "M10213562_001.png",
+        "price": 949000000,
+        "sku": "670811",
+        "description":"",
+        "specs": {"dimensions": "98 inch"},
+        "features": ["Công nghệ Quantum Matrix Pro", "Bộ xử lý Neural Quantum 8K", "Thiết kế 3 mặt kim loại thời thượng"],
+        "stock": 5
+    },
+    {
+        "id": 8,
+        "catId": 3,
+        "title": "77 inch OLED 4K S95C",
+        "productCode": "32LM6370PLA",
+        "image": "10221968.png",
+        "price": 109900000,
+        "sku": "657462",
+        "description":"",
+        "specs": {"dimensions": "77 inch"},
+        "features": ["Công nghệ OLED", "Bộ xử lý Neural Quantum 4K", "Thiết kế Infinity One"],
+        "stock": 5
+    },
+    {
+        "id": 9,
+        "catId": 3,
+        "title": "65 inch Crystal UHD 4K AU7002",
+        "productCode": "TX40JX800B",
+        "image": "102219680.png",
+        "price": 13400000,
+        "sku": "704803",
+        "description":"",
+        "specs": {"dimensions": "65 inch"},
+        "features": ["Công nghệ PurColor", "Bộ xử lý hình ảnh Crystal 4K", "Công nghệ Motion Xcelerator"],
+        "stock": 8
+    }
+  ]
+}
